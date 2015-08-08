@@ -1,0 +1,2 @@
+# zsh-settings
+my zshrc
